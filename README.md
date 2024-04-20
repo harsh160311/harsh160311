@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/harsh160311.https://github.com/harsh160311)
+[![Visits Badge](https://badges.strrl.dev/visits/harsh160311)](https://badges.strrl.dev)
 
 </p>
 <div size='20px'> Hi! My name is harsh. Thank You for taking the time to view my GitHub Profile :smile: 
