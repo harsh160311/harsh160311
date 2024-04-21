@@ -43,7 +43,7 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![harsh160311's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh160311&theme=vue-dark&hide_border=false)
+![harsh160311's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh160311&theme=vue-dark&hide_border=false) <br>
 ![harsh160311's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh160311&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
