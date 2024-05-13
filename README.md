@@ -34,7 +34,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> 
+</h3>
 <p align="left">
 
 <a href = 'https://portfolio-harsh16.netlify.app/' target="blank"> <img width = '40px' height="30" alt="harsh160311"  align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
