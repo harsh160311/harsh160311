@@ -36,20 +36,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/harsh-cs16/'> <img width = '32px' align= 'center'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-  <a href = 'https://portfolio-harsh16.netlify.app/' target="blank"> <img width = '40px' height="30" alt="harsh160311"  align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://portfolio-harsh16.netlify.app/' target="blank"> <img width = '40px' height="30" alt="harsh160311"  align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+
 <a href = 'https://www.github.com/https://github.com/harsh160311' target="blank"> <img width = '40px' height="30" alt="harsh160311"  align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
 
 </p>
     
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats 
+  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![harsh160311's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh160311&theme=vue-dark&hide_border=false) <br>
 ![harsh160311's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh160311&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh160311&langs_count=10&show_icons=true&theme=radical"> </p>
+
 
 <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="LeetCode" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;">
 <hr></hr>
