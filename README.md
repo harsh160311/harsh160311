@@ -38,6 +38,7 @@
 <p align="left">
 
 <a href = 'https://portfolio-harsh16.netlify.app/' target="blank"> <img width = '40px' height="30" alt="harsh160311"  align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<br>
 <a href = 'https://www.linkedin.com/in/harsh-cs16/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
