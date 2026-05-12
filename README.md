@@ -76,7 +76,11 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh160311&theme=vue-dark&hide_border=false" alt="harsh160311's Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh160311&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="harsh160311's Top Languages"/>
+
+<h2> 🏆 GitHub Trophies </h2>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh160311&theme=darkhub&no-frame=true&margin-w=6" alt="Trophies"/>
 </p>
 
 <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="LeetCode" style="max-width:100%;">
