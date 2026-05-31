@@ -2,7 +2,7 @@
 <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
 </div>
 
-<h1 align="center"> Hello, I'm Harsh! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
+<h1 align="center"> Hello, I'm Harsh Nagpal! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
 
 <h3 align="center">Frontend Developer & Cybersecurity Enthusiast</h3>
 
